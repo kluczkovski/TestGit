@@ -13,6 +13,7 @@ namespace TestGit.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+        // Test fix 01
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
