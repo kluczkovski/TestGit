@@ -24,6 +24,7 @@ namespace TestGit.Controllers
             return View();
         }
 
+        // Text Fix 02
         public IActionResult Privacy()
         {
             return View();
