@@ -9,6 +9,8 @@ namespace TestGit.Models
 
         public int Quantidade { get; set; }
 
+        public string image { get; set; }
+
         public Product()
         {
         }
