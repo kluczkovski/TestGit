@@ -7,6 +7,10 @@ namespace TestGit.Models
 
         public string Descricao { get; set; }
 
+        public int Quantidade { get; set; }
+
+        public string image { get; set; }
+
         public Product()
         {
         }
